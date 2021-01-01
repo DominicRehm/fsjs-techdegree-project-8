@@ -1,0 +1,1 @@
+You can install all npm-modules with the command "npm install". After the installation you can start the local-server with "npm start".
